@@ -33,4 +33,5 @@ Visit [vintagegees.com](https://asimwe1.github.io/online-shopping-platform/) for
 |:---|:---|
 | Website | [www.vintagegees.com](https://asimwe1.github.io/online-shopping-platform/) |
 | Language | PHP |
-| Developer/Uploader | [nurhodelta_17](https://www.sourcecodester.com/users/nurhodelta2017) |
+| Developer/Uploader | [LandrySB](https://github.com/asimwe1), [HTMCharles](https://github.com/htmcharles) |
+|Credit to|[nurhodelta_17](https://www.sourcecodester.com/users/nurhodelta2017)|
